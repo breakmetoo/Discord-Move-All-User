@@ -60,7 +60,6 @@ A sleek and powerful Node.js script to manage Discord servers by moving members 
 ║  🌩️ DISCORD MOVE MAESTRO 🌩️  ║
 ║      PRIME CONTROL ARENA      ║
 ╚═══════════════════════════════╝
-⚡ Command Your Server with Flair! ⚡
 
 📡 Status: Disconnected
 
