@@ -22,7 +22,7 @@ A sleek and powerful Node.js script to manage Discord servers by moving members 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/discord-move-maestro.git
+   git clone https://github.com/breakmetoo/discord-move-maestro.git
    ```
 2. Navigate to the directory:
    ```
