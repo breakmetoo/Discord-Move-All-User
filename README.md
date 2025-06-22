@@ -85,7 +85,3 @@ Contributions are welcome! Please:
 ## Disclaimer
 
 This project is for educational purposes only. The author is not responsible for any misuse or consequences, including account bans from Discord. Always respect Discord's Terms of Service.
-
-## License
-
-MIT License
