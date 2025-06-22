@@ -46,7 +46,7 @@ A sleek and powerful Node.js script to manage Discord servers by moving members 
 3. Ensure you have the necessary permissions ("Move Members" and "Connect") in the target server and voice channel.
 
 ### Démonstration
-![Démonstration du déplacement des utilisateurs Discord](assets/demo.gif)
+![Démonstration du déplacement des utilisateurs Discord](ezgif-1a74c9c65ae008.gif)
 
 
 ## Example
