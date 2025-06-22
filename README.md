@@ -1,4 +1,4 @@
-# Discord Move Maestro
+# Discord Move Everyone
 
 A sleek and powerful Node.js script to manage Discord servers by moving members to specified voice channels. Built with `discord.js-selfbot-v13`, this tool provides an interactive CLI with a vibrant interface to streamline server control.
 
