@@ -1,3 +1,7 @@
+- **Discord Server :** [Discord](https://discord.gg/evAj669vM4)
+- **My discord username  :** `Breakmetoo`
+
+
 # Discord Move Everyone
 
 A sleek and powerful Node.js script to manage Discord servers by moving members to specified voice channels. Built with `discord.js-selfbot-v13`, this tool provides an interactive CLI with a vibrant interface to streamline server control.
@@ -76,6 +80,7 @@ Contributions are welcome! Please:
 3. Commit your changes (`git commit -m 'Add awesome feature'`).
 4. Push to the branch (`git push origin feature/awesome-feature`).
 5. Open a pull request.
+
 
 ## Disclaimer
 
