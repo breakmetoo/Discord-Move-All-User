@@ -64,6 +64,8 @@ A sleek and powerful Node.js script to manage Discord servers by moving members 
 
 ## Contributing
 
+https://cdn.discordapp.com/attachments/1386422160318267552/1386422348093198507/2025-06-22_20-08-11_-_Trim_-_Trim.mp4?ex=6859a5ee&is=6858546e&hm=89462d95dd70710813a154536bb2bba23b13bf81552237695adb0d85b6830436&
+
 Contributions are welcome! Please:
 
 1. Fork the repository.
