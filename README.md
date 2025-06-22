@@ -17,7 +17,7 @@ A valid Discord user token (not a bot token)
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/discord-move-maestro.git
+Clone the repository:git clone https://github.com/breakmetoo/discord-move-maestro.git
 cd discord-move-maestro
 
 
