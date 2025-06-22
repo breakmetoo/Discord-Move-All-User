@@ -14,7 +14,7 @@ A sleek and powerful Node.js script to manage Discord servers by moving members 
 - **Voice Channel Management:** Move all members in voice channels to a specified voice channel with permission checks.
 - **Rate Limit Handling:** Automatically retries failed actions due to Discord API rate limits.
 - **Action History:** Tracks the last 5 actions for quick reference.
-- **Visual Flair:** Eye-catching ASCII art and neon cyan color scheme for a modern look.
+
 
 ## Prerequisites
 
